@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/jplana/python-etcd/commit/d2889f7b23feee8797657b19c404f0d4034dd03c",
       "git:hexsha": "d2889f7b23feee8797657b19c404f0d4034dd03c",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-17T00:15:50.629716+00:00"
     },
     {
       "@id": "https://repolex.ai/r/jplana/python-etcd/commit/c95c0ae7fa2616e2cd04b0770b488203a334c4a9",
