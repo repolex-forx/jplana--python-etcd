@@ -1,0 +1,11 @@
+{
+  "org": "jplana",
+  "repo": "python-etcd",
+  "versions": [
+    {
+      "commit": "d2889f7b23feee8797657b19c404f0d4034dd03c",
+      "tag": "",
+      "parsed_at": "2026-10-17T00:15:50.657038+00:00"
+    }
+  ]
+}
